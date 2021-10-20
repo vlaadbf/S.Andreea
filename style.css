@@ -81,7 +81,7 @@ h2{
 /*body*/
 body{
     background: linear-gradient(
-        to  top,
+        to  bottom,
         rgb(181, 177, 204),
         rgba(22, 5, 53, 0.938)
         );
